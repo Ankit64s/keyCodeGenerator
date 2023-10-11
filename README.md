@@ -4,7 +4,7 @@ A simple web application that displays the pressed key and its corresponding key
 
 ## Demo
 
-You can see a live demo of the project [here](#) (insert the URL of your hosted project).
+You can see a live demo of the project [here](#) (https://ankit64s.github.io/keyCodeGenerator/).
 
 ## Features
 
